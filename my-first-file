@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -x
+
+#echo "Print Whoami"
+
+whoami
+
+#echo "Print Present working directory"
+
+pwd
+
+#echo "Print the free space in the disk"
+
+free
+
+
